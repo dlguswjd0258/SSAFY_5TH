@@ -18,15 +18,16 @@
 |               |                                       |          문자열          |
 |               |                                       |            DP            |
 
+-----
+
 |           Frontend           |          Backend           |                    DB                     |
 | :--------------------------: | :------------------------: | :---------------------------------------: |
 |   HTML / Form / Tag / CSS    |     Servlet / JSP 연동     |              데이터 검색 DML              |
 |     JavaScript / jQuery      | JSTL / EL Session / Cookie |              Join / SubQuery              |
 | Jquery 비동기 처리 BootStrap |            MVC             | DB 모델링  <br /> => Table / Index / View |
 |       Web Archi / JDBC       |                            |                                           |
-|                              |                            |                                           |
 
-
+-----
 
 | 컴퓨팅사고력              | Framework              | Vue                                               |
 | ------------------------- | ---------------------- | ------------------------------------------------- |
